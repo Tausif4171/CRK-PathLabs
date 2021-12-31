@@ -1,0 +1,20 @@
+<li> Ultrasound
+											<li> X-Ray <li> 3T MRI <li> CT Scan <li> Mammagraphy <li> 2D echo <li>TMT/PFT
+											<li> BMD/Dexa <li> OPG
+
+
+                                            <li> LCMS <li> Hematology <li> Immunology <li> Ciinical biochemistry <li> Clinical Pathology
+											<li> CYTOGENETICS <li> MICROBIOLOGY <li> MOLECULAR PATHOLOGY <li> CYTOPATHOLOGY <li>HISTOPATHOLOGY
+
+                                            <li> Healthcare check-up package
+											<li> Full body check-up package Male and Female
+											<li> Healthy Heart package
+											<li> Senior Citizen Male and female
+											<li> Full Diabetes package
+											<li> Arthritis (Bone & Joint) Minor and Major package 
+											<li> Basic Fertility check-up for men and women
+											<li> Cancer screening male and female
+											<li> Pre-employment check-ups
+											<li> Annual Check-ups
+											<li> Preoperative Check-ups
+											<li> Corporate Wellness Programs
